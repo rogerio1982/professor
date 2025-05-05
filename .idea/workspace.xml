@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e70475e8-b592-4275-a2b1-3e4f2c6b742b" name="Changes" comment="alteracao main deletado" />
+    <list default="true" id="e70475e8-b592-4275-a2b1-3e4f2c6b742b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="gustavo_branch" />
+        <entry key="$PROJECT_DIR$" value="henrique_branch" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -74,14 +77,7 @@
       <option name="project" value="LOCAL" />
       <updated>1746450841749</updated>
     </task>
-    <task id="LOCAL-00005" summary="marge">
-      <created>1746467407313</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1746467407313</updated>
-    </task>
-    <option name="localTasksCounter" value="6" />
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -99,7 +95,6 @@
     <MESSAGE value="alteracao gustavo" />
     <MESSAGE value="alteracao henrique" />
     <MESSAGE value="alteracao main deletado" />
-    <MESSAGE value="marge" />
-    <option name="LAST_COMMIT_MESSAGE" value="marge" />
+    <option name="LAST_COMMIT_MESSAGE" value="alteracao main deletado" />
   </component>
 </project>
